@@ -1,7 +1,5 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - Ravid1.otf
 axisOrder:
   - wght
-  - ital
-familyName: Rubik
+familyName: Ravid1.
